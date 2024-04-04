@@ -34,3 +34,5 @@ class Usuarios{
         this.senha = novo;
     }
 }
+
+module.exports = Usuarios
