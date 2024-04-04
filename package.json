@@ -1,0 +1,25 @@
+{
+  "name": "cinecatalog",
+  "version": "1.0.0",
+  "description": "Site fullstack para catalogar filmes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alanz0ka/CineCatalog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alanz0ka/CineCatalog/issues"
+  },
+  "homepage": "https://github.com/Alanz0ka/CineCatalog#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3",
+    "nodemon": "^3.1.0"
+  }
+}
