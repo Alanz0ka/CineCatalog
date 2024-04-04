@@ -5,6 +5,6 @@ class Titulos{
         this.titulo = "",
         this.diretor = "",
         this.elenco = "",
-        this.genero = "",
+        this.genero = ""
     }
 }
