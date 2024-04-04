@@ -2,8 +2,9 @@
   "name": "cinecatalog",
   "version": "1.0.0",
   "description": "Site fullstack para catalogar filmes",
-  "main": "index.js",
+  "main": "src/server/app.js",
   "scripts": {
+    "dev": "nodemon src/server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
