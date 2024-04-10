@@ -62,3 +62,14 @@
     padding: 10px;
     margin-left: 15px;
 }
+
+.signup:hover{
+    background-color: #333;
+    color: #fff;
+}
+
+.login-button:hover{
+    background-color: #333;
+    color: #fff;
+    box-shadow: 10px;
+}
