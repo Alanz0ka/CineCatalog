@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Alanz0ka/CineCatalog#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "mysql2": "^3.9.3",
+    "mysql2": "^3.9.4",
     "nodemon": "^3.1.0"
   }
 }
